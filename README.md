@@ -11,6 +11,7 @@
         </tr>
      </thead>
     <tbody>
+        https://aoap.amrita.edu/gateway/index/index?ekey=ICPC24
          <tr>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/ayush-that/FinVeda?style=flat&logo=github"/></td>
              <td><img alt="Forks" src="https://img.shields.io/github/forks/ayush-that/FinVeda?style=flat&logo=github"/></td>
