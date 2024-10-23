@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 <a href="https://fin-veda.vercel.app/" target="_blank" title="Go to the FinVeda website"><img height="256px" alt="FinVeda logo" src="https://github.com/user-attachments/assets/5e45e1f4-7e0d-45b1-914d-80b6ab77ddd8"></a>
 <table align="center">
     <thead align="center">
